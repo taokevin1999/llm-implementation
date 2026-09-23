@@ -1,0 +1,18 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment / secret files
+.env
+
+# Large local artifacts
+data/
+checkpoints/
+outputs/
