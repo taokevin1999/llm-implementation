@@ -16,3 +16,6 @@ venv/
 data/
 checkpoints/
 outputs/
+
+#links
+storage
