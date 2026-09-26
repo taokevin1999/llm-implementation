@@ -1,0 +1,1 @@
+COURSE_NAME = "LLM Implementation Course"
