@@ -19,3 +19,5 @@ outputs/
 
 #links
 storage
+
+*.egg-info/
