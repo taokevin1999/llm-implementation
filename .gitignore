@@ -23,3 +23,4 @@ storage
 *.egg-info/
 scratch
 simple_fnn_state.pt
+pytorch_practice.py
