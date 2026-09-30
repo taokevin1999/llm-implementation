@@ -101,5 +101,3 @@ head = AttentionHead(
     head_size=4,
     block_size=5,
 )
-for name, param in head.named_parameters():
-    print(name)

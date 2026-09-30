@@ -135,3 +135,5 @@ def test_multihead_is_causal():
         out2[:, :-1, :],
         atol=1e-5,
     )
+    
+print(torch.cuda.is_available())
