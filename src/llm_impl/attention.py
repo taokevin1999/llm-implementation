@@ -95,9 +95,3 @@ class MultiHeadAttention(nn.Module):
         out = self.proj(out)
 
         return out
-
-head = AttentionHead(
-    d_model=8,
-    head_size=4,
-    block_size=5,
-)
